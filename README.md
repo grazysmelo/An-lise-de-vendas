@@ -8,6 +8,58 @@
 
 - #### Primeiros passos: ####
     - [x] Configurar e iniciar o Jupyter Notebook.
+    - [x] Importar as bibliotecas necessárias.
+    - [x] Carregar e realizar uma exploração inicial dos dados.
+<img src=""> print dos primeiros passos
+
+Com uma lista de 11 questões a serem respondidas, inciei as análises para sanar com êxito todas as minhas dúvidas.
+> Durante todo o processo, apareceu diversas situações que precisaram ser contornada e ajustadas de acordo com a necessidade da analise.//continua
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- #### Considerações finais: ####
+    - [x] Configurar e iniciar o Jupyter Notebook.
     - [x] Importar as bibliotecas necessárias e carregar os dados.
     - [x] Realizar uma exploração inicial dos dados.
-    - [x] Começar a análise exploratória com visualizações e insights iniciais.  
+    - [x] Começar a análise exploratória com visualizações e insights iniciais.
