@@ -9,6 +9,7 @@ Referências e Anexos
 <img src="https://github.com/grazysmelo/Analise-de-vendas/blob/main/capa%20do%20relat%C3%B3rio.jpg" align="center">
 
 <p>A partir desses dados, tenho como objetivo descobrir semelhanças e preferências entre os clientes, padrões de compras, sazonalidade das vendas e receitas geradas por categoria dos produtos.</p>
+
 - #### Perguntas à serem respondidas: ####
     - [ ] Qual é a distribuição do número de pedidos e qual é o valor médio dos pedidos por estado? 
     - [ ] Qual é a distribuição dos clientes por região?
