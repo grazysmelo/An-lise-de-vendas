@@ -31,9 +31,9 @@
 
 <img src="https://github.com/grazysmelo/Analise-de-vendas/blob/main/imagens/heatmap.png" align="center">
 <p>Alguns resultados gerados a partir do mapa de calor foram: </p>
-1. A maior concentração de clientes está localizada na região Sudeste. 
-2. As regiões Sul e Nordeste também apresentam concentrações significativas de clientes, especialmente em estados como Rio Grande do Sul e Bahia. 
-3. As regiões Norte e Centro-Oeste mostram menor densidade de clientes. Isso pode indicar a necessidade de estratégias específicas para aumentar a penetração nessas regiões
+<p>1. A maior concentração de clientes está localizada na região Sudeste.</p>
+<p>2. As regiões Sul e Nordeste também apresentam concentrações significativas de clientes, especialmente em estados como Rio Grande do Sul e Bahia.</p>
+<p>3. As regiões Norte e Centro-Oeste mostram menor densidade de clientes. Isso pode indicar a necessidade de estratégias específicas para aumentar a penetração nessas regiões.</p>
 <p>Compreender a distribuição geográfica dos clientes é crucial para a segmentação de mercado e para a definição de estratégias de marketing.</p>
 
 
@@ -52,7 +52,7 @@ com o maior volume, se destacando em relação as outras, com um total de 11.115
 <p>Pode se observar um crescimento constante nas vendas ao longo do período analisado, com exceção de pequenas flutuações em alguns meses. Isso indica um aumento na demanda dos produtos ou uma expansão de clientes.</p>
 <p>Entender o volume de vendas por mês é crucial para gerenciar estoques de maneira eficaz.</p>
 
-> ** 🐛 Dificuldades ** 
+> 🐛 Dificuldades:
 > A integração entre diferentes bibliotecas de Python, como `Pandas` e `Folium`, apresentou desafios iniciais, especialmente na configuração dos parâmetros para visualização correta dos mapas. Esses desafios proporcionaram um aprendizado valioso, especialmente na área de análise dos dados e na escolha das ferramentas adequadas para visualização. As soluções encontradas não só ajudaram a completar o projeto, mas também contribuíram para o desenvolvimento de habilidades que serão úteis em projetos futuros.
 
 ### Conclusões:
@@ -63,6 +63,6 @@ com o maior volume, se destacando em relação as outras, com um total de 11.115
 - Implementar campanhas de marketing específicas para o período de maior demanda.
 - Explorar novos mercados geográficos, especialmente em regiões menos atendidas.
 
- <p> </p>
 <a href="https://www.kaggle.com/code/leandroal/an-lise-do-e-commerce-no-brasil-olist-dataset/input">Os dados foram extraidos de: www.kaggle.com</a>
+<p> </p>
 <a href="https://github.com/grazysmelo/Analise-de-vendas/blob/main/An%C3%A1lise%20do%20e-commerce%20no%20Brasil.ipynb">Jupyter Notebook</a>
